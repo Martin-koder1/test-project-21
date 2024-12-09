@@ -44,3 +44,19 @@ console.log("---------------------------------------------------");
 for (let index = 5; index > 0; index--) {
     console.log(index);
 };
+
+
+
+
+
+
+
+
+// If/Else statement
+const number = 10;
+
+if (number === 10) {
+    console.log("Nummeret er akkurat 10!")
+} else {
+    console.log("Nummeret er ikke 10")
+};
